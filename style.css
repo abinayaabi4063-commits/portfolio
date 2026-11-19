@@ -1,0 +1,11 @@
+html{
+scroll-behavior: smooth;
+}
+section{
+padding: 60px 0;
+}
+.skill-card:hover{
+transform: scale(1.05);
+transition: 0.3s;
+background: #f0f0f0;
+}
